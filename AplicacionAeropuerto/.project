@@ -14,4 +14,21 @@
 	<natures>
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>screenshots/crear-vuelo.png</name>
+			<type>1</type>
+			<location>C:/Users/Samuel/Desktop/pa/crear-vuelo.png</location>
+		</link>
+		<link>
+			<name>screenshots/gestionar-aeropuerto.png</name>
+			<type>1</type>
+			<location>C:/Users/Samuel/Desktop/pa/gestionar-aeropuerto.png</location>
+		</link>
+		<link>
+			<name>screenshots/menu.png</name>
+			<type>1</type>
+			<location>C:/Users/Samuel/Desktop/pa/menu.png</location>
+		</link>
+	</linkedResources>
 </projectDescription>
