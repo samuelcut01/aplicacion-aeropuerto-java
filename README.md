@@ -1,6 +1,6 @@
 # Aeropuerto MVC
 
-Este proyecto es una aplicación que realicé cursando primero de DAW. Trata sobre un software que permite gestionar aeropuertos y está desarrollada en Java puro utilizando el modelo MVC (Modelo-Vista-Controlador). La aplicación permite gestionar vuelos, pasajeros y aeropuertos, interactuando con una base de datos para el almacenamiento de datos. La interfaz gráfica está construida con Java Swing.
+Este proyecto es una aplicación que realicé cursando primero de DAW. Se trata de un software que permite gestionar aeropuertos y está desarrollada en vanilla Java utilizando el modelo MVC (Modelo-Vista-Controlador). La aplicación permite gestionar vuelos, pasajeros y aeropuertos, interactuando con una base de datos para el almacenamiento de datos. La interfaz gráfica está construida con Java Swing.
 
 ## Características
 
