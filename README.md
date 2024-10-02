@@ -24,6 +24,6 @@ Este proyecto es una aplicación que realicé cursando primero de DAW. Trata sob
 
 ## Capturas de pantalla de la aplicación
 
-![Pantalla del menú de inicio](C:\Users\Samuel\git\aplicacion-aeropuerto-java\AplicacionAeropuerto\screenshots\menu.png)
-![Pantalla de gestión de un aeropuerto](C:\Users\Samuel\git\aplicacion-aeropuerto-java\AplicacionAeropuerto\screenshots\gestionar-aeropuerto.png)
-![Pantalla para crear un vuelo](C:\Users\Samuel\git\aplicacion-aeropuerto-java\AplicacionAeropuerto\screenshots\crear-vuelo.png)
+![Pantalla del menú de inicio](screenshots/menu.png)
+![Pantalla de gestión de un aeropuerto](screenshots/gestionar-aeropuerto.png)
+![Pantalla para crear un vuelo](screenshots/crear-vuelo.png)
